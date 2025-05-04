@@ -1,12 +1,13 @@
 # Technical-Content-Samples
-Delivered Install guide in 3 formats for multiple audiences
+Here is the sample install guide that was delivered and published in 3 formats for multiple audiences
 
-## Inastallation Guide for Paper print copy:
-Created the step by step guide for sensor installation.<br>
+# Sensor Installation Guide
+## Inastallation Guide for paper print copy:
+ i've created the step by step guide for sensor installation<br>
 
 <img width="669" alt="image" src="https://github.com/user-attachments/assets/9fad8c9d-b4b7-4196-a56d-033fd1a523a5" /> <br>
 
-Created technical illustrations to show the visual installation steps<br>
+I've created technical illustrations to show the visual installation steps<br>
 
 <img width="669" alt="image" src="https://github.com/user-attachments/assets/d830d17d-7bfc-405a-97ba-cab2c0d15d22" /> <br>
 
